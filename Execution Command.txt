@@ -1,1 +1,1 @@
-python3 detector_Chandrahas_Etikala.py iscp_pii_dataset.csv
+python3 Detector_Chandrahas_Etikala.py iscp_pii_dataset.csv
